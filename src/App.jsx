@@ -1,9 +1,10 @@
 import React from "react";
+import Hero from "./components/Hero";
 
 const App = () => {
   return (
-    <main>
-      <h1 className="text-5xl font-bold text-violet-300">Welcome to Awwards</h1>
+    <main className="relative w-screen min-h-screen overflow-x-hidden">
+      <Hero />
     </main>
   );
 };
