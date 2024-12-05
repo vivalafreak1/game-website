@@ -67,4 +67,4 @@ game-website/
 ## Special Thanks
 
 1. JSMastery : For providing the course for this. You can check them out here **[JSMastery](https://www.youtube.com/watch?v=zA9r5zTllx4)**
-2. Zentry : For providing the assets: animation, video, font, image. **[Zentry](https://zentry.com/)**
+2. Zentry : For providing the web design: animation, video, font, image. **[Zentry](https://zentry.com/)**
