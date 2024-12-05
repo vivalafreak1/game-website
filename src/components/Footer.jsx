@@ -8,6 +8,8 @@ const links = [
 ];
 
 export const Footer = () => {
+  const currentYear = new Date().getFullYear();
+
   return (
     <footer className="w-screen text-white bg-violet-500">
       <div className="container flex flex-col items-center gap-8 px-6 py-8 mx-auto md:flex-row md:justify-between">
@@ -41,7 +43,7 @@ export const Footer = () => {
             Privacy Policy
           </a>
           <p className="text-gray-300">
-            &copy; 2023 Zentry. All rights reserved.
+            &copy; {currentYear} Zentry. All rights reserved.
           </p>
         </div>
       </div>
