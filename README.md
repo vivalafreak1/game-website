@@ -1,6 +1,6 @@
 # Web Profile for Gaming Website
 
-A modern and captivating web profile designed for gaming enthusiasts. This project uses GSAP for smooth animations, React.js and Vite for a fast development environment, and Tailwind CSS for elegant styling.
+A modern and captivating web profile designed for gaming enthusiasts. This project uses GSAP for smooth animations, React.js and Vite for a fast development environment, and Tailwind CSS for elegant styling.test
 
 ## Features
 
